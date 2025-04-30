@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**sandha1/sandha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Loving to learn, learning to code, loving to code"
 
-Here are some ideas to get you started:
+## My coding adventure 👩🏻‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📜 Newly certified FullStack Web Developer from Le Wagon
+- ♦️ Loving the Ruby language and environment
+- 🌱 Always working to improve my coding skills (Ruby, JavaScript...)
+- 🚀 Currently building some cool projects with Rails
+
+## Let's connect 💬
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sandrinehalbronn/)
