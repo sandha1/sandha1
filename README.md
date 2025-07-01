@@ -7,7 +7,7 @@
 - 📜 Newly certified FullStack Web Developer from Le Wagon
 - ♦️ Loving the Ruby language and environment
 - 🌱 Always working to improve my coding skills (Ruby, JavaScript...)
-- 🚀 Currently building some cool projects with Rails
+- 🚀 Currently building some cool Rails projects with @GDAY75 [(ZapStream)](https://github.com/GDAY75/ZapStream) and @benhainuts [(StoryWiz)](https://github.com/sandha1/storywiz)
 
 ## Let's connect 💬
 
